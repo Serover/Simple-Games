@@ -1,0 +1,2 @@
+# Simple-Games
+School assignement
